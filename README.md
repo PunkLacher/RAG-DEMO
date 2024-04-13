@@ -8,8 +8,8 @@ NPM install
 Create a .env file with the following 
 
 NODE_ENV = development
-OPENAI_API_KEY = <Add your own Open AI key>
-MONGODB_ATLAS_URI = <MongoDB Connection String>
+OPENAI_API_KEY = Add your own Open AI key
+MONGODB_ATLAS_URI = MongoDB Connection String
 
 RAG input docs are stored in the pei_docs folder in Markdown files.
 
@@ -24,4 +24,3 @@ NPM run dev
 
 
 
-# RAG-DEMO
